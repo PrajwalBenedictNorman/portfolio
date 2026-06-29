@@ -20,7 +20,7 @@ export default function Footer() {
         <div className="md:col-span-6 flex flex-col md:items-end gap-4">
           <div className="flex items-center gap-6">
             <a 
-              href="https://linkedin.com" 
+              href="https://www.linkedin.com/in/prajwalbnorman/" 
               target="_blank" 
               rel="noopener noreferrer"
               className="text-xs font-mono text-brand-text-secondary hover:text-brand-text-primary transition-colors cursor-pointer"
@@ -29,7 +29,7 @@ export default function Footer() {
             </a>
             
             <a 
-              href="https://github.com" 
+              href="https://github.com/PrajwalBenedictNorman" 
               target="_blank" 
               rel="noopener noreferrer"
               className="text-xs font-mono text-brand-text-secondary hover:text-brand-text-primary transition-colors cursor-pointer"
@@ -38,7 +38,7 @@ export default function Footer() {
             </a>
 
             <a 
-              href="mailto:contact@prajwal.dev" 
+              href="mailto:normanprajwal@gmail.com" 
               className="text-xs font-mono text-brand-text-secondary hover:text-brand-text-primary transition-colors cursor-pointer"
             >
               Email ↗
