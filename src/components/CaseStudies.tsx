@@ -109,17 +109,6 @@ export default function CaseStudies() {
                 {/* Title */}
                 <h3 className="text-xl font-bold text-brand-text-primary mb-6 flex items-center gap-2 group-hover:text-brand-accent-dim transition-colors">
                   {c.title}
-                  {c.url && (
-                    <a 
-                      href={c.url} 
-                      target="_blank" 
-                      rel="noopener noreferrer"
-                      className="inline-flex text-[10px] font-mono text-brand-text-secondary/50 hover:text-brand-text-primary transition-colors"
-                      onClick={(e) => e.stopPropagation()}
-                    >
-                      [code ↗]
-                    </a>
-                  )}
                 </h3>
 
                 {/* Big Metric Display */}
