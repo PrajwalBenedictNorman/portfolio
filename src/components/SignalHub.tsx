@@ -120,7 +120,7 @@ export default function SignalHub() {
                     B.Tech Computer Science
                   </h4>
                   <p className="text-xs text-brand-text-secondary font-light">
-                    Specialized in Systems & Algorithms
+                    Specialized in Artificial Intelligence and Machine Learning
                   </p>
                 </div>
               </div>

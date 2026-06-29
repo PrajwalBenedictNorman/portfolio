@@ -9,7 +9,7 @@ export default function CaseStudies() {
       metricLabel: 'Cosine Drop Detected',
       signal: 'Go sidecar utilizing concurrent CUSUM/EWMA algorithms.',
       outcome: '18% cosine similarity drop detection with 0% false positives.',
-      tags: ['Go', 'CUSUM', 'EWMA', 'gRPC'],
+      tags: ['Go', 'CUSUM', 'EWMA', 'Prometheus','Docker'],
       url: 'https://github.com/PrajwalBenedictNorman/QueryGuard'
     },
     {
@@ -45,7 +45,7 @@ export default function CaseStudies() {
       metricLabel: 'Latency Reduced',
       signal: 'Cryptographic system across 14 REST API endpoints.',
       outcome: 'Parallel fetch pattern halved history load time. Live on Vercel.',
-      tags: ['TypeScript', 'Cryptography', 'REST API', 'Concurrency'],
+      tags: ['TypeScript', 'Cryptography', 'REST API', 'PostgreSQL','React'],
       url: 'https://github.com/PrajwalBenedictNorman/EthLink'
     },
     {
